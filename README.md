@@ -1,1 +1,1 @@
-# Blockchain Evolution: from Bitcoin to Solana
+# Solana: Un nuevo paradigma en las tecnologías Blockchain
